@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#ff0000" font-family="Fantasy" font-size="60" id="svg_1" stroke="#000000" stroke-width="0" text-anchor="middle" x="328.5" xml:space="preserve" y="230.5">WJB</text>
+  <path d="m511.233234,208.721929l-39.793096,-39.834474l26.206894,0l39.793096,39.834474l-39.793096,39.834442l-26.206894,0l39.793096,-39.834442z" fill="#ff0000" id="svg_4" stroke="#000000" stroke-width="5"/>
+  <path d="m472.761031,208.052898l-33.160918,-33.1954l21.839082,0l33.160918,33.1954l-33.160918,33.195373l-21.839082,0l33.160918,-33.195373z" fill="#ff7f00" id="svg_5" stroke="#000000" stroke-width="5"/>
+  <path d="m438.709132,206.817468l-24.97404,-25.000009l16.447376,0l24.97404,25.000009l-24.97404,24.999989l-16.447376,0l24.97404,-24.999989z" fill="#ff0000" id="svg_6" stroke="#000000" stroke-width="5"/>
+  <path d="m409.34554,207.277466l-21.495425,-19.500016l14.156434,0l21.495425,19.500016l-21.495425,19.500001l-14.156434,0l21.495425,-19.500001z" fill="#ff7f00" id="svg_7" stroke="#000000" stroke-width="5"/>
+  <path d="m162.088108,210.50002l-39.793096,-39.834474l26.206894,0l39.793096,39.834474l-39.793096,39.834442l-26.206894,0l39.793096,-39.834442z" fill="#ff0000" id="svg_12" stroke="#000000" stroke-width="5" transform="rotate(179.798 155.295 210.5)"/>
+  <path d="m197.615905,209.830989l-33.160918,-33.1954l21.839082,0l33.160918,33.1954l-33.160918,33.195373l-21.839082,0l33.160918,-33.195373z" fill="#ff7f00" id="svg_11" stroke="#000000" stroke-width="5" transform="rotate(179.171 191.955 209.831)"/>
+  <path d="m225.564006,208.595559l-24.97404,-25.000009l16.447376,0l24.97404,25.000009l-24.97404,24.999989l-16.447376,0l24.97404,-24.999989z" fill="#ff0000" id="svg_10" stroke="#000000" stroke-width="5" transform="rotate(177.315 221.301 208.596)"/>
+  <path d="m252.200414,208.055558l-21.495425,-19.500016l14.156434,0l21.495425,19.500016l-21.495425,19.500001l-14.156434,0l21.495425,-19.500001z" fill="#ff7f00" id="svg_9" stroke="#000000" stroke-width="5" transform="rotate(178.722 248.531 208.056)"/>
+  <text fill="#7f007f" font-family="Cursive" font-size="20" font-style="italic" font-weight="bold" id="svg_15" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="331.5" xml:space="preserve" y="266.5">DESARROLLADOR WED</text>
+ </g>
+</svg>
